@@ -1,5 +1,5 @@
 # 3D-Cube
-![first generated image](./rotated_cube.jpg)
+![first generated image](./rotated_cube.jpg)<br>
 Rendering cube in python in pygame and only for generating images.
 
 ## 3DCubePyGame.py
